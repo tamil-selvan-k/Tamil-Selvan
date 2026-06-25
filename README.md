@@ -135,13 +135,13 @@ Hi, I'm **Tamil Selvan K** — a passionate **Full Stack Developer** and **Softw
 
 ## 🚀 Featured Projects - Full Stack Web Applications
 
+### 🔹 [API-Gateway-Rate-Limiter](https://gatezentry.vercel.app/)
+**Tech Stack:** Node.js, Express.js, Redis, JavaScript
+**Description:** High-performance API Gateway with built-in rate limiting and request throttling. Supports distributed traffic control using Redis, configurable rate-limit rules, API protection against abuse, and scalable middleware architecture. Designed for secure, reliable, and efficient API management in modern backend systems.
+
 ### 🔹 [ThereYouGo](https://github.com/tamil-selvan-k/ThereYouGo)
 **Tech Stack:** HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB  
 **Description:** A modern responsive website built with performance-first design principles. Features fast loading times, clean UI layouts, and seamless cross-device user experience. Implements responsive web design, mobile-first approach, and optimized asset delivery.
-
-### 🔹 [whatsapp-clone](https://github.com/tamil-selvan-k/whatsapp-clone)
-**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js), WebSockets, Socket.io  
-**Description:** Real-time chat application inspired by WhatsApp. Built with MERN stack architecture featuring instant messaging, WebSocket connections for real-time communication, responsive UI design, and modern frontend architecture. Implements user authentication, message persistence, and real-time notifications.
 
 ### 🔹 [Quizz](https://github.com/tamil-selvan-k/Quizz)
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, REST APIs  
