@@ -55,14 +55,6 @@ Hi, I'm **Tamil Selvan K** — a passionate **Full Stack Developer** and **Softw
 - 🚀 **Performance Optimization**: Creating high-performance applications that handle thousands of concurrent users
 - 🔐 **Authentication & Security**: Implementing JWT authentication, OAuth, and secure API design patterns
 
-### Tech Expertise
-**Frontend:** React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Responsive Web Design  
-**Backend:** Node.js, Express.js, REST APIs, JWT Authentication, WebSockets, API Development  
-**Databases:** MongoDB, MySQL, Database Design, Query Optimization  
-**DevOps & Cloud:** Docker, CI/CD, GitHub Actions, AWS (EC2, S3, Lambda), Linux, Cloud Deployment  
-**Tools & Practices:** Git, GitHub, Postman, Agile Development, Code Review, Version Control  
-**Languages:** JavaScript, TypeScript, Python, Java, C, C++
-
 ---
 
 <div align="center">
@@ -70,22 +62,7 @@ Hi, I'm **Tamil Selvan K** — a passionate **Full Stack Developer** and **Softw
   ## 🛠️ Technical Stack
 
   <br />
-
-  <!-- Programming Languages -->
-  <h3 align="center">💻 Programming Languages</h3>
-  <table align="center" style="border: none;">
-    <tr>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript Developer" /><br />JavaScript</td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="60" alt="TypeScript Developer" /><br />TypeScript</td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="60" alt="Python Developer" /><br />Python</td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="60" alt="Java Developer" /><br />Java</td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="60" alt="C Programming" /><br />C</td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="60" alt="C++ Programming" /><br />C++</td>
-    </tr>
-  </table>
-
-  <br />
-
+  
   <!-- Web Technologies -->
   <h3 align="center">🌐 MERN Stack & Web Technologies</h3>
   <table align="center" style="border: none;">
@@ -125,6 +102,20 @@ Hi, I'm **Tamil Selvan K** — a passionate **Full Stack Developer** and **Softw
       <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="60" alt="Linux Server Administration" /><br />Linux</td>
       <td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws" width="60" alt="AWS Cloud Services" /><br />AWS Cloud</td>
       <td align="center" width="110"><img src="https://skillicons.dev/icons?i=githubactions" width="60" alt="CI/CD Pipeline - GitHub Actions" /><br />CI/CD</td>
+    </tr>
+  </table>
+
+  <br />
+  <!-- Programming Languages -->
+  <h3 align="center">💻 Programming Languages</h3>
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript Developer" /><br />JavaScript</td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="60" alt="TypeScript Developer" /><br />TypeScript</td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="60" alt="Python Developer" /><br />Python</td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="60" alt="Java Developer" /><br />Java</td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="60" alt="C Programming" /><br />C</td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="60" alt="C++ Programming" /><br />C++</td>
     </tr>
   </table>
 </div>
