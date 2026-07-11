@@ -1,7 +1,7 @@
 <div align="center"> 
   <!-- Name Header using Doto Font & Neon Orange --> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?weight=900&size=100&pause=1000&color=FF5F1F&center=true&vCenter=true&width=1000&height=180&lines=Tamil+Selvan+K" alt="Tamil Selvan K - MERN Stack Developer and Full Stack JavaScript Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com?weight=900&size=100&pause=1000&color=fff700&center=true&vCenter=true&width=1000&height=180&lines=Tamil+Selvan+K" alt="Tamil Selvan K - MERN Stack Developer and Full Stack JavaScript Engineer" />
   </a>
   
   <h1 style="color: #a9b1d6; font-family: sans-serif; font-weight: bold;">
